@@ -1,0 +1,44 @@
+# Translations for English
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# 404.html
+#
+[notFound]
+other = "Ups, stranica nije pronađena..."
+
+[home]
+other = "Home"
+
+[archives]
+other = "Arhiva"
+
+# posts/single.html
+#
+[seeAlso]
+other = "Vidi također"
+
+[wordCount]
+other = "riječi"
+
+[tableOfContents]
+other = "Sadržaj"
+
+[newer]
+other = "Novije"
+
+[older]
+other = "Starije"
+
+[humanMade]
+other = "Ne mrzim umjetnu AI; ali ja volim ljude!"
+
+# partials/header.html
+#
+[menu]
+other = "Menu"
+
+[share]
+other = "Udio"
+
+[featuredImage]
+other = "Istaknuta slika"

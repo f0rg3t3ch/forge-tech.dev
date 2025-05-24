@@ -1,0 +1,13 @@
+{{/* 
+This partial is responsible for footer contents for the site 
+You can make page specific footers by creating below partials in `/layouts/partials`
+For homepage (or landing page), index-footer.html
+For article list pages, list-footer.html
+For single pages (which are not articles), single-footer.html
+For posts/articles pages, posts-footer.html
+*/}}
+<p>
+	{{- if not .Site.Params.footerHideThemeName -}}
+	{{- end -}}
+	{{- with .OutputFormats.Get "RSS" }}<a href="{{ "index.xml" | absLangURL }}" target="_blank" title="rss">{{- partial "svg.html" (dict "context" . "name" "rss") -}}</a>{{- end -}}
+</p>

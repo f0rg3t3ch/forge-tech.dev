@@ -1,0 +1,8 @@
+/.tofu/terraform.tfvars
+/.tofu/.terraform.lock.hcl
+/.tofu/.terraform.tfstate.lock.info
+/.tofu/terraform.tfstate
+/.tofu/.terraform/
+/.tofu/*
+/public/*
+/.hugo_build.lock
