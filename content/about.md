@@ -19,7 +19,7 @@ With a background rooted in advanced engineering and a keen eye for emerging tre
 - IT Consulting: Strategic insights and guidance to help you harness the full potential of technology.
 - Automation Solutions: Intelligent systems that optimize workflow, reduce costs, and drive efficiency.
 - Technical Support & Maintenance: Reliable, responsive service to keep your business running smoothly.
-- 
+
 ---
 
 At Forge-Tech, we don’t just build technology—we forge lasting partnerships. 
